@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UndoRedo</string>
+    <string name="copy">copy</string>
+    <string name="paste">paste</string>
+    <string name="replace">replace</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+</resources>
